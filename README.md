@@ -12,3 +12,4 @@ You can find your private key by:
 
 # Requirements
 request
+csv
